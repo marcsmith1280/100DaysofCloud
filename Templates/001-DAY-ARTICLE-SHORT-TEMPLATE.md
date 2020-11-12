@@ -3,19 +3,21 @@
 **Add a cover photo like:**
 ![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# AWS Website
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+✍️ I completed this project to showcase my ability to create static websites using AWS. 
+http://smith.com.s3-website-us-east-1.amazonaws.com
 
+*Disclaimer - this code was free and found online. 
 ## Use Case
 
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+- ✍️ The best use case for static website is serve static content while still allowing for scalability and availablity. 
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
+- Static websites can be delivered to web browsers on desktops, tablets, or mobile devices. Static websites can also contain client-side interactivity so they dont appear boring or basis. 
 
 ## Social Proof
 
