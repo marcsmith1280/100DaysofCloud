@@ -1,7 +1,7 @@
 
 ![placeholder image](https://mms.businesswire.com/media/20200205005243/en/771407/22/AWS_logo_RGB.jpg)
 
-# New post title here
+# Day 2 of Journey
 
 ## AWS Website
 
