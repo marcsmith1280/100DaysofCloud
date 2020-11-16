@@ -1,52 +1,47 @@
 **Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+![placeholder image](https://www.securitymagazine.com/ext/resources/SEC/2017/April/SEC0417-testing-feat-slide_900px.jpg?1489683576)
 
-# New post title here
+# AWS Security 
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+The purpose of this project was to experiment with how AWS GuardDuty actually works. I was able to successfully enable AWS GuardDuty and also created a demo list of IP addresses to add to the Trusted IP list. I also generated some sample findings to view and inspect what the details would look like in the real world. Finally I created a suppression rule to suppress some common but necessary findings that are not high level threats
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+To pass the AWS Security Specialist Certification, one must understand how GuardDuty works and its purpose. 
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+AWS Guard Duty is a threat intelligence service by AWS which monitors for malicious behavior to help customers protect their AWS workloads.
 
 ## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+To begin working with AWS GuardDuty, you must first enable the service to be activated. Pricing varies depending on quantity of AWS CloudTrail, VPC Flow Logs and DNS logs events being analyzed
 
 ### Step 1 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
+Login to AWS console and search for AWS GuardDuty. Enable the GuardDuty Service
 
-### Step 1 — Summary of Step
+### Step 2 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
-
+-Navigate to lists. 
+-On your personal PC created a txt file and add a sample IP address. 
+-Create a demo S3 bucket and upload your IP address txt file to S3. 
+-Next on List page, select Add a trusted IP list and create name, add the location of file from S3 and select the format. Finally select ADD LIST
 ### Step 3 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
+-On Findings tab, select Suppress Findings
+-Type the name of the findings you wish to suppress and add description. Select Save
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+From completing this project I learned how to Add trusted IP addresses to GuardDuty. GuardDuty does not generate findings for IP address on trusted IP lists.
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+With my next project I will focus on learning how to enable GuardDuty across all AWS accounts. To centralize the dashboard.
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Tweet](lhttps://twitter.com/MarcusS69448454/status/1328475993212903425ink)
