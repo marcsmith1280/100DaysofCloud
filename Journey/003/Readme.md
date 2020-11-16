@@ -44,4 +44,4 @@ With my next project I will focus on learning how to enable GuardDuty across all
 
 ## Social Proof
 
-[Tweet](https://twitter.com/MarcusS69448454/status/1328475993212903425ink)
+[Tweet](https://twitter.com/MarcusS69448454/status/1328475993212903425)
