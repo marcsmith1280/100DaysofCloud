@@ -1,52 +1,56 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+![placeholder image](data:image/png;base64,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)
+
+# AWS CloudWatch Demo
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+I chose to complete this project on AWS CloudWatch to showcase my skills on configuring CloudWatch via the CLI and analyze results using JSONFormatta software for more clarity.
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+Some base knowledge needed to complete this project starts with understanding what CloudWatch is. CloudWatch is a centralized monitoring service that can be used to monitor, store, and access your log files from Amazon Elastic Compute (Amazon Ec2) instances, AWS CloudTrail, Route 53, and other sources.
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+By viewing the CloudWatch events, CloudWatch Events enables us to respond to changes in our AWS environment in real time. 
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
+- Make sure if this is your first time working with SNS topics that you verify your email to confirm ability to recieve SNS messages from AWS.
 ## Try yourself
 
 ✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
 
 ### Step 1 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
+-Configure your IAM role 
+-Start your EC2 instance in desired region
+-Connect to your EC2 instance via CLI and run command "sudo yum install -y awslogs"
 
-### Step 1 — Summary of Step
+### Step 2 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
+-After completing install, you must start the service via CLI using following command "sudo systemctl start awslogsd"
+-Navigate to cd /etc/awslogs/, type "ls" to see list of directory.
+-Edit the awscli.conf file, and change the region to where the CloudWatch agents pushes the log
+
 
 ### Step 3 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
+-Next part of project involves creating CloudWatch events to react to changes in real time.
+-For example you can create CloudWatch rule to monitor when instances are stopped and started again. 
+-Create new rule and choose event pattern. Select EC2 for Service Name and EC2 Instance state change notification for Event Type.
+-Next you must add target, you can choose SNS and add an email. Navigate to SNS topics and create a new topic including the desired email address
+-Navigate back to CloudWatch rules and choose the desired event topic 
+-Select create rule to complete!
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+During this project I learned the importance of CloudWatch and its purposes. Other than offering a centralized location for logs, CloudWatch events help monitor all changes made to EC2 instance. I was able to successfully launch an EC2 instance and configure Cloudwatch. I also added Cloudwatch event to monitor when EC2 instance was stopped or started. I ran a demo and stopped my instance and received my SNS message via email. Using JSONFormattta, I was able past the results and read the results to account, source, region instance ID and state of instance. This tool can be used to monitor instance details very closely. 
 
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
 
 ## Social Proof
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[Tweet](https://twitter.com/MarcusS69448454/status/1335771389689782273)
