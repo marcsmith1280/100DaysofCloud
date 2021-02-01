@@ -1,20 +1,19 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+![placeholder image](https://lh3.googleusercontent.com/Fs8_7Txz3oUMeVrdZoRilOnSfZj60sIodrrVj4hT7q0eNAgdJwEupW0jMYE_jbZQ4Wa0PQ=s152)
+
+AWS Cleanup
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+In this project, I simply cleaned up my AWS account. Free Tier was ending. 
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+Learning how to prevent future charges once Free Tier expires
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+While having fun building in AWS, time will fly by. Before you are aware your getting the emails that the Free Tier will be ending. To avoid accruing charges, make sure you follow these steps.
 
 ## Cloud Research
 
@@ -27,26 +26,31 @@
 
 ### Step 1 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
+Identify the resources that are generating charges
 
 ### Step 1 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
+Delete, shutdown, or terminate resources that may be generating charges
 
 ### Step 3 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
+Proactively monitor your usage to be sure that you dont exceed the free tier offering.
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+For my account I needed to terminate all EC2 instances in the different AZ I was using. 
+I also deleted all S3 buckets that were saved.
+One area where I ran into trouble was with deleting buckets associated with Elastic Bean Stalk
+When I would try to delete them I kept getting a error message "Access Denied"
+To fix, I went into the the bucket policy and changed the explict "Deny" to "Allow"
+Once done I was able to successfully delete all buckets with no issues
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+Next I was create a new Free Tier account and began to create roles and practice AWS
 
 ## Social Proof
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[Tweet](https://twitter.com/MarcusS69448454/status/1356378815229030401)
