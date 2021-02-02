@@ -1,5 +1,4 @@
-
-![placeholder image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Famazon-web-services&psig=AOvVaw01ZgBr9w8xXvZsrq11rA4a&ust=1612367276538000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDRtKjGy-4CFQAAAAAdAAAAABAD)
+[placeholder image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Famazon-web-services&psig=AOvVaw01ZgBr9w8xXvZsrq11rA4a&ust=1612367276538000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDRtKjGy-4CFQAAAAAdAAAAABAD)
 
 NEW AWS Free Tier Account
 
