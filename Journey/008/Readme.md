@@ -1,5 +1,5 @@
 
-![placeholder image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.jscmgroup.com%2Fsecurity-views-blog%2Fmulti-factor-authentication&psig=AOvVaw1wCIvUen1vk1CdXukb5JMb&ust=1612663451881000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjAhNqV1O4CFQAAAAAdAAAAABAD)
+[placeholder image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.avatier.com%2Fblog%2Fwp-content%2Fuploads%2F2019%2F07%2Fblog-Self-Assess-Your-MFA-Implementation-in-5-Steps-copy.jpg&imgrefurl=https%3A%2F%2Fwww.avatier.com%2Fblog%2Fhow-to-update-your-it-security-policy-with-multi-factor-authentication%2F&tbnid=jO7DHNYXdHLslM&vet=12ahUKEwiN4-bSldTuAhWiKX0KHYBiAgMQMygCegUIARCpAQ..i&docid=AEoiz928DWzzVM&w=416&h=288&q=MFA&ved=2ahUKEwiN4-bSldTuAhWiKX0KHYBiAgMQMygCegUIARCpAQ)
 
 MFA Protected API Access
 
