@@ -66,7 +66,7 @@ ACCESS GRANTED!
 
 This project resulted in the successful creation and access using AWS SSO
 I tried doing this project prior and kept getting an error message when submitting the verfication code from the CLI
-Luckily I tried again and this time was successful
+Luckily I tried again and this time was successful.
 
 
 ## Social Proof
