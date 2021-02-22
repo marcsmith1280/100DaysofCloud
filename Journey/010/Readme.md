@@ -43,7 +43,6 @@ During the creation of my S3 bucket I enabled default encryption with the new CM
 So technically I did not need to encrypt during upload because the S3 bucket was already encrypted
 Furthermore, I did still encrypt the new object with the new key just for the experience 
 
-
 ## Social Proof
 
 [Tweet](https://twitter.com/MarcusS69448454/status/1363671973704966144)
