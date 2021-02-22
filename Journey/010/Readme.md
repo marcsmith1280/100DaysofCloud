@@ -34,7 +34,7 @@ My bucket name was sample-kms.
 Finally once the bucket is created we will upload a new object to the bucket
 We will use the new CMK key to encrypt the newly uploaded S3 object
 
-Project Complete
+Project Complete!
 
 ## ☁️ Cloud Outcome
 
