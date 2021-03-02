@@ -56,7 +56,7 @@ Use the follow commands to install nginx:
 - sudo su -
 - yum -y install nginx
 - sudo amazon-linux-extras install nginx1
-- systemctl start nginx
+- systemctl start  nginx
 
 That will install and start the service.
 *Run these steps on both EC2 instances*
